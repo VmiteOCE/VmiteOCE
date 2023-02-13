@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vmit
+- 👋 Hi, I’m Vmite
 - 👀 I’m interested in [ Node.JS , Discord.JS , HTML , CSS , JavaScript , PHP , SQL, Gmod Expression 2 ]
 - 🌱 I’m currently learning how to use discord interactions to use slash commands
 - 📫 How to reach me | Discord Vmite#0001 | Steam ID:Vmite |
